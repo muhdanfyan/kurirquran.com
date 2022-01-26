@@ -223,17 +223,18 @@
 }
  .main_bt {
      background: transparent;
-    color: #fff;
+    /* color: #fff; */
     padding: 15px 60px 15px 60px;
     float: left;
     font-size: 15px;
     font-weight: 400;
-    border: solid #fff 2px;
+    /* border: solid #fff 2px; */
+    border: solid 2px;
     border-radius: 30px;
     margin: 63px 0px 60px 0px;
 }
  a.readmore_bt {
-     color: #fff;
+     /* color: #fff; */
      font-weight: 300;
      text-decoration: underline !important;
 }
@@ -389,10 +390,10 @@ ul.top_icon li a{ color: #fff;
 
 
  .menu-area-main li:hover a, .menu-area-main li:focus a {
-     color: #b32137;
+     color: #0c448f;
 }
  .menu-area-main li.active a {
-     color: #b32137;
+     color: #0c448f;
 }
  .right_cart_section {
      float: right;
@@ -1389,7 +1390,7 @@ ul.top_icon li a{ color: #fff;
  .banner-main .carousel-caption h1 {
     font-size: 51px;
      line-height: 72px;
-     color: #fff;
+     color: #0b438e;
      font-weight: bold;
      padding-bottom: 35px;
      padding-top: 25px;
@@ -1399,7 +1400,7 @@ ul.top_icon li a{ color: #fff;
  .banner-main .carousel-caption p {
     font-size: 18px;
      line-height: 30px;
-     color: #fff;
+     color: #000;
 }
  .carousel-indicators .active {
     background-color: #18bb18;
@@ -1458,7 +1459,7 @@ ul.locat_icon li a{
      padding: 0px 0px 20px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #b32137;
+     color: #0c448f;
      line-height: 50px;
 }
 
@@ -1515,7 +1516,7 @@ ul.locat_icon li a{
      padding: 0px 0px 20px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #b32137;
+     color: #0c448f;
      line-height: 50px;
 }
  
@@ -1567,7 +1568,7 @@ ul.locat_icon li a{
      padding: 0px 0px 20px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #b32137;
+     color: #0c448f;
      line-height: 50px;
 }
  
@@ -1763,7 +1764,7 @@ ul.location_icon li a{
     margin-bottom: 90px;
 }
  .about-bg {
-    background-color: #b32137;
+    background-color: #0c448f;
 
 
 
